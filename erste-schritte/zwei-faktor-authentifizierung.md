@@ -110,8 +110,8 @@ $$
 
 #### Link zu einer anderen Seite meiner Dokumentation:
 
-{% content-ref url="roxtra-einrichten.md" %}
-[roxtra-einrichten.md](roxtra-einrichten.md)
+{% content-ref url="software-einrichten.md" %}
+[software-einrichten.md](software-einrichten.md)
 {% endcontent-ref %}
 
 #### Column content:

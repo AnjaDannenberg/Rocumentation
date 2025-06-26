@@ -13,7 +13,7 @@
 
 ## Erste Schritte
 
-* [Software einrichten](erste-schritte/roxtra-einrichten.md)
+* [Software einrichten](erste-schritte/software-einrichten.md)
 * [Zwei-Faktor-Authentifizierung](erste-schritte/zwei-faktor-authentifizierung.md)
 
 ***
