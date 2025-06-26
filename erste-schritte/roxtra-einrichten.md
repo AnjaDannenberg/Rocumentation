@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# roXtra einrichten
+# Software einrichten
 
 #### Mein ursprünglicher Text:
 
@@ -33,19 +33,17 @@ Anleitung, um ein Video einzubinden: [https://gitbook.com/docs/guides/product-gu
 
 Leider wird dieser Link nicht automatisch in ein Video verwandelt. Vermutlich ergibt es mehr Sinn, die Videoanleitung am Seitenanfang einzubinden und eine Schritt-für-Schritt Anleitung darunter aufzuführen.
 
-
-
 </details>
 
 {% stepper %}
 {% step %}
-### Word öffnen
+#### Word öffnen
 
 Klicke auf das Word-Icon auf deinem Desktop oder deiner Taskleiste, um Word zu öffnen.
 {% endstep %}
 
 {% step %}
-### Text eintippen
+#### Text eintippen
 
 Klicke auf die leere Seite und tippe auf deiner Tastatur, um Text einzufügen.
 {% endstep %}
@@ -53,5 +51,4 @@ Klicke auf die leere Seite und tippe auf deiner Tastatur, um Text einzufügen.
 
 #### Neues austesten:
 
-Random Text.
-Noch mehr random Text.
+Random Text. Noch mehr random Text.
