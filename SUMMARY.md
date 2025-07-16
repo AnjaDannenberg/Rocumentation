@@ -13,13 +13,12 @@
 
 ## Erste Schritte
 
-* [Software einrichten](erste-schritte/software-einrichten.md)
-* [Zwei-Faktor-Authentifizierung](erste-schritte/zwei-faktor-authentifizierung.md)
+* [KI, Videos und Stepper](erste-schritte/ki-videos-stepper.md)
+* [Weitere Blöcke](erste-schritte/weitere-bloecke.md)
 
 ***
 
-* [Benutzeroberfläche](benutzeroberflache.md)
-* [Spannende Seite](spannende-seite.md)
+* [Screenshots](benutzeroberflache.md)
 
 ## Basisfunktionen
 

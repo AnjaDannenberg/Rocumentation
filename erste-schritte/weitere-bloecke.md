@@ -2,17 +2,23 @@
 description: GIFs lassen sich auf jeden Fall einfügen.
 ---
 
-# Zwei-Faktor-Authentifizierung
+# Weitere Blöcke
 
-Anscheinend gibt es hier auch eine automatische Rechtschreibprüfung, denn "Gifs" wird mir beim Schreiben rot unterstrichen. Die richtige Schreibweise ist GIFs. Eventuell ist es aber nur die Rechtschreibprüfung des Browsers.
-
-## GIF:
-
-<figure><img src="../.gitbook/assets/rickroll-roll.gif" alt="" width="320"><figcaption><p>Rick Roll</p></figcaption></figure>
+## Überschrift 1
 
 ### Überschrift 2
 
 #### Überschrift 3
+
+### Rechtschreibprüfung
+
+Anscheinend gibt es hier auch eine automatische Rechtschreibprüfung, denn "Gifs" wird mir beim Schreiben rot unterstrichen. Die richtige Schreibweise ist GIFs. Eventuell ist es aber nur die Rechtschreibprüfung des Browsers.
+
+### GIF
+
+<figure><img src="../.gitbook/assets/rickroll-roll.gif" alt="" width="320"><figcaption><p>Rick Roll</p></figcaption></figure>
+
+### Tabs
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -24,27 +30,33 @@ Inhalt von Tab 2
 {% endtab %}
 {% endtabs %}
 
+### Unsortierte Liste
+
 * Diese Liste sollte kein Problem sein
 * Ich baue sie trotzdem ein
 * Sicherheitshalber
 
-
+### Sortierte Liste
 
 1. Diese Liste ist sortiert
 2. Sie sollte auch keine Probleme darstellen
 3. Coole Sache
 
-
+### Task Liste
 
 * [ ] Das hier ist eine Task List
 * [ ] Interessant
-* [x] Wofür könnte man das gebrauchen?
+* [x] Wofür könnte ich das gebrauchen?
+
+### Divider
 
 ***
 
-Netter Divider
+Netter Divider ...
 
 ***
+
+### Expandable
 
 <details>
 
@@ -60,27 +72,35 @@ Zwar kann ich GIFs und Bilder einbauen, aber Videos werden hier drin nur als Lin
 
 </details>
 
+### Zitat
+
 > Das hier ist ein nettes Zitat.
 >
 > Es kann auch mehrzeilig sein.
+
+### Code
 
 ```
 // Some code
 ```
 
+### Datei
+
 #### Das hier ist eine Datei (kann runtergeladen werden):
 
 {% file src="../.gitbook/assets/Testvideo_Word.mp4" %}
 
-#### Ein _embedded Video_ (get Rickrolled!):
+### Embedded Video
+
+Get rickrolled!
 
 {% embed url="https://www.youtube.com/watch?list=RDdQw4w9WgXcQ&start_radio=1&v=dQw4w9WgXcQ" %}
 
-#### Ein normaler Link:
+### Link
 
 {% embed url="https://knowyourmeme.com/memes/rickroll" %}
 
-#### Eine Tabelle:
+### Tabelle
 
 | Table Head 1       | Table Head 2       | Table Head 3       |
 | ------------------ | ------------------ | ------------------ |
@@ -88,10 +108,34 @@ Zwar kann ich GIFs und Bilder einbauen, aber Videos werden hier drin nur als Lin
 | irgendein Inhalt 4 | irgendein Inhalt 5 | irgendein Inhalt 6 |
 | irgendein Inhalt 7 | irgendein Inhalt 8 | irgendein Inhalt 9 |
 
-#### Ein Hinweis:
+### Hinweise und Textfarben
 
 {% hint style="info" %}
 Das hier ist ein Hinweis
+{% endhint %}
+
+{% hint style="info" %}
+Das hier ist ein <mark style="background-color:green;">Hinweis</mark>
+
+{% hint style="info" %}
+Das hier ist ein <mark style="background-color:yellow;">Hinweis</mark>
+
+{% hint style="info" %}
+Das hier ist ein <mark style="background-color:blue;">Hinweis</mark>
+{% endhint %}
+{% endhint %}
+{% endhint %}
+
+{% hint style="warning" %}
+Das hier ist ein <mark style="color:green;">Hinweis</mark>
+{% endhint %}
+
+{% hint style="danger" %}
+Das hier ist ein <mark style="color:purple;">Hinweis</mark>
+{% endhint %}
+
+{% hint style="success" %}
+Das hier ist ein <mark style="color:red;">Hinweis</mark>
 {% endhint %}
 
 #### Karten:
@@ -100,7 +144,7 @@ Das hier ist ein Hinweis
 
 #### Dies ist ein Editor, den wir für die Bearbeitung von Screenshots nutzen können:
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
 #### Eine mathematische Formel:
 
@@ -110,8 +154,8 @@ $$
 
 #### Link zu einer anderen Seite meiner Dokumentation:
 
-{% content-ref url="software-einrichten.md" %}
-[software-einrichten.md](software-einrichten.md)
+{% content-ref url="ki-videos-stepper.md" %}
+[ki-videos-stepper.md](ki-videos-stepper.md)
 {% endcontent-ref %}
 
 #### Column content:
