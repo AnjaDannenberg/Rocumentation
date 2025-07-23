@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dieser Text steht nur zum Test hier und dient der Prüfung, ob die Übersetzung
-  auf Englisch einwandfrei funktioniert.
+  Dies ist eine Seitenbeschreibung. Sie darf nur eine begrenzte Zeichenlänge
+  haben.
 coverY: 0
 ---
 
@@ -31,7 +31,7 @@ Anleitung, um ein Video einzubinden: [https://gitbook.com/docs/guides/product-gu
 
 [https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS4mIflB2A613MGTst9ZP%2Fuploads%2F4CbBtScYrJAnUuqmFpbr%2FTestvideo\_Word.mp4?alt=media\&token=65d0749e-0eaa-4d81-bc81-df1e594a49b4](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FS4mIflB2A613MGTst9ZP%2Fuploads%2F4CbBtScYrJAnUuqmFpbr%2FTestvideo_Word.mp4?alt=media\&token=65d0749e-0eaa-4d81-bc81-df1e594a49b4)
 
-Leider wird dieser Link nicht automatisch in ein Video verwandelt. Vermutlich ergibt es mehr Sinn, die Videoanleitung am Seitenanfang einzubinden und eine Schritt-für-Schritt Anleitung darunter aufzuführen.
+Der Link wird nicht automatisch in ein Video umgewandelt. Es ist sinnvoll, die Videoanleitung am Anfang einzubinden und eine Schritt-für-Schritt-Anleitung darunter aufzuführen.
 
 </details>
 
