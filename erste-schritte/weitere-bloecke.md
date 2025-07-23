@@ -1,5 +1,5 @@
 ---
-description: GIFs lassen sich auf jeden Fall einfügen.
+description: Auf dieser Seite teste ich weitere Blöcke und Funktionen von GitBook aus
 ---
 
 # Weitere Blöcke
@@ -12,7 +12,7 @@ description: GIFs lassen sich auf jeden Fall einfügen.
 
 ### Rechtschreibprüfung
 
-Anscheinend gibt es hier auch eine automatische Rechtschreibprüfung, denn "Gifs" wird mir beim Schreiben rot unterstrichen. Die richtige Schreibweise ist GIFs. Eventuell ist es aber nur die Rechtschreibprüfung des Browsers.
+Eine Rechtschreibprüfung ist durch die integrierte KI von GitBook möglich.
 
 ### GIF
 
@@ -32,21 +32,21 @@ Inhalt von Tab 2
 
 ### Unsortierte Liste
 
-* Diese Liste sollte kein Problem sein
-* Ich baue sie trotzdem ein
-* Sicherheitshalber
+* Dies ist eine unsortierte Liste
+* Ein wenig Text
+* Ein wenig Text
 
 ### Sortierte Liste
 
 1. Diese Liste ist sortiert
-2. Sie sollte auch keine Probleme darstellen
-3. Coole Sache
+2. Ein wenig Text
+3. Ein wenig Text
 
 ### Task Liste
 
-* [ ] Das hier ist eine Task List
-* [ ] Interessant
-* [x] Wofür könnte ich das gebrauchen?
+* [ ] Ein wenig Text
+* [ ] Ein wenig Text
+* [x] Erledigter Task
 
 ### Divider
 
@@ -86,7 +86,7 @@ Zwar kann ich GIFs und Bilder einbauen, aber Videos werden hier drin nur als Lin
 
 ### Datei
 
-#### Das hier ist eine Datei (kann runtergeladen werden):
+#### Dies ist eine Datei (kann runtergeladen werden):
 
 {% file src="../.gitbook/assets/Testvideo_Word.mp4" %}
 

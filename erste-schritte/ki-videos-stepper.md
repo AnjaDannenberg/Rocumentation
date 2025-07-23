@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# Software einrichten
+# KI, Videos und Stepper
 
 #### Mein ursprünglicher Text:
 
@@ -48,7 +48,3 @@ Klicke auf das Word-Icon auf deinem Desktop oder deiner Taskleiste, um Word zu �
 Klicke auf die leere Seite und tippe auf deiner Tastatur, um Text einzufügen.
 {% endstep %}
 {% endstepper %}
-
-#### Neues austesten:
-
-Random Text. Noch mehr random Text.
