@@ -60,13 +60,13 @@ Netter Divider ...
 
 <details>
 
-<summary>Das hier nennt sich <strong>Expandable</strong></summary>
+<summary>Dies ist ein <strong>Expandable</strong></summary>
 
-Wenn ich draufklicke, wird dieser Inhalt expandiert.
+Inhalt anzeigen durch Klicken.
 
 [https://gitbook.com/docs/guides/product-guides/upload-and-embed-a-playable-video-into-your-gitbook-docs](https://gitbook.com/docs/guides/product-guides/upload-and-embed-a-playable-video-into-your-gitbook-docs)
 
-Zwar kann ich GIFs und Bilder einbauen, aber Videos werden hier drin nur als Link angezeigt. Leider.
+GIFs und Bilder können eingebunden werden, aber Videos werden leider nur als Links angezeigt.
 
 ![](../.gitbook/assets/rickroll-roll.gif)
 
@@ -74,7 +74,7 @@ Zwar kann ich GIFs und Bilder einbauen, aber Videos werden hier drin nur als Lin
 
 ### Zitat
 
-> Das hier ist ein nettes Zitat.
+> Dies ist ein nettes Zitat.
 >
 > Es kann auch mehrzeilig sein.
 
