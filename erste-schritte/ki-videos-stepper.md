@@ -2,7 +2,25 @@
 description: >-
   Dies ist eine Seitenbeschreibung. Sie darf nur eine begrenzte Zeichenlänge
   haben.
+cover: ../.gitbook/assets/Roxtra_Website_Startseite_Screenshot01.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # KI, Videos und Stepper
