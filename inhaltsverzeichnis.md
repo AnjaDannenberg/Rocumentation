@@ -2,7 +2,9 @@
 
 ### Erste Schritte
 
-{% include ".gitbook/includes/interne-seitenverlinkung.md" %}
+{% content-ref url="erste-schritte/ki-videos-stepper.md" %}
+[ki-videos-stepper.md](erste-schritte/ki-videos-stepper.md)
+{% endcontent-ref %}
 
 {% content-ref url="erste-schritte/weitere-bloecke.md" %}
 [weitere-bloecke.md](erste-schritte/weitere-bloecke.md)
@@ -12,16 +14,8 @@
 [benutzeroberflache](erste-schritte/benutzeroberflache/)
 {% endcontent-ref %}
 
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/" %}
-[unterkapitel-screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots/)
-{% endcontent-ref %}
-
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/" %}
-[unterunterkapitel-1](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/)
-{% endcontent-ref %}
-
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-1.md" %}
-[unterunterunterkapitel-1.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-1.md)
+{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-2.md" %}
+[unterunterunterkapitel-2.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-2.md)
 {% endcontent-ref %}
 
 ### Basisfunktionen
