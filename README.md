@@ -51,6 +51,3 @@ layout:
 [dokument-anlegen.md](dokumente/dokument-anlegen.md)
 {% endcontent-ref %}
 
-## Inhaltsverzeichnis 2
-
-###
