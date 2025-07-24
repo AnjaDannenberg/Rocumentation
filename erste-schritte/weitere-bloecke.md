@@ -96,7 +96,7 @@ GIFs und Bilder können eingebunden werden, aber Videos werden leider nur als Li
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-### Interne Seitenverlinkung durch reusable Content
+### Reusable Content
 
 {% include "../.gitbook/includes/interne-seitenverlinkung.md" %}
 
@@ -161,12 +161,6 @@ Das hier ist ein <mark style="color:red;">Hinweis</mark>
 $$
 f(x) = x * e^{2 pi i \xi x}
 $$
-
-#### Link zu einer anderen Seite meiner Dokumentation:
-
-{% content-ref url="ki-videos-stepper.md" %}
-[ki-videos-stepper.md](ki-videos-stepper.md)
-{% endcontent-ref %}
 
 #### Column content:
 
