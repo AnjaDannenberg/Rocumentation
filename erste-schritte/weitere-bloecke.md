@@ -90,6 +90,12 @@ GIFs und Bilder können eingebunden werden, aber Videos werden leider nur als Li
 
 {% file src="../.gitbook/assets/Testvideo_Word.mp4" %}
 
+### Interne Seitenverlinkung
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
 ### Embedded Video
 
 Get rickrolled!
