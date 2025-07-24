@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [Inhaltsverzeichnis](inhaltsverzeichnis.md)
+* [Inhaltsverzeichnis](README.md)
 
 ## Erste Schritte
 
