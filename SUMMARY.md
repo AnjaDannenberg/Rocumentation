@@ -11,14 +11,15 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
+***
+
+* [Inhaltsverzeichnis](inhaltsverzeichnis.md)
+
 ## Erste Schritte
 
 * [KI, Videos und Stepper](erste-schritte/ki-videos-stepper.md)
 * [Weitere Blöcke](erste-schritte/weitere-bloecke.md)
-
-***
-
-* [Screenshots](benutzeroberflache.md)
+* [Screenshots](erste-schritte/benutzeroberflache.md)
 
 ## Basisfunktionen
 
