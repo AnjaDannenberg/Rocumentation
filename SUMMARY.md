@@ -20,7 +20,9 @@
 * [KI, Videos und Stepper](erste-schritte/ki-videos-stepper.md)
 * [Weitere Blöcke](erste-schritte/weitere-bloecke.md)
 * [Screenshots](erste-schritte/benutzeroberflache/README.md)
-  * [Unterkapitel Screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots.md)
+  * [Unterkapitel Screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots/README.md)
+    * [Unterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/README.md)
+      * [Unterunterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/unterunterunterkapitel.md)
 
 ## Basisfunktionen
 
