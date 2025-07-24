@@ -96,6 +96,10 @@ GIFs und Bilder können eingebunden werden, aber Videos werden leider nur als Li
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
+### Interne Seitenverlinkung durch reusable Content
+
+{% include "../.gitbook/includes/interne-seitenverlinkung.md" %}
+
 ### Embedded Video
 
 Get rickrolled!

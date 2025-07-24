@@ -2,9 +2,7 @@
 
 ### Erste Schritte
 
-{% content-ref url="erste-schritte/ki-videos-stepper.md" %}
-[ki-videos-stepper.md](erste-schritte/ki-videos-stepper.md)
-{% endcontent-ref %}
+{% include ".gitbook/includes/interne-seitenverlinkung.md" %}
 
 {% content-ref url="erste-schritte/weitere-bloecke.md" %}
 [weitere-bloecke.md](erste-schritte/weitere-bloecke.md)
