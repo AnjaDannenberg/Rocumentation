@@ -16,12 +16,12 @@
 [unterkapitel-screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots/)
 {% endcontent-ref %}
 
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/" %}
-[unterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/)
+{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/" %}
+[unterunterkapitel-1](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/)
 {% endcontent-ref %}
 
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/unterunterunterkapitel.md" %}
-[unterunterunterkapitel.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/unterunterunterkapitel.md)
+{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel.md" %}
+[unterunterunterkapitel.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel.md)
 {% endcontent-ref %}
 
 ### Basisfunktionen

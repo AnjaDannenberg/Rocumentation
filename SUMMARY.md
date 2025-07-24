@@ -21,8 +21,10 @@
 * [Weitere Blöcke](erste-schritte/weitere-bloecke.md)
 * [Screenshots](erste-schritte/benutzeroberflache/README.md)
   * [Unterkapitel Screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots/README.md)
-    * [Unterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/README.md)
-      * [Unterunterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel/unterunterunterkapitel.md)
+    * [Unterunterkapitel 1](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/README.md)
+      * [Unterunterunterkapitel](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel.md)
+    * [Unterunterkapitel 2](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-2.md)
+    * [Unterunterkapitel 3](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-3.md)
 
 ## Basisfunktionen
 
