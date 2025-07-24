@@ -8,8 +8,8 @@
 [weitere-bloecke.md](erste-schritte/weitere-bloecke.md)
 {% endcontent-ref %}
 
-{% content-ref url="erste-schritte/benutzeroberflache.md" %}
-[benutzeroberflache.md](erste-schritte/benutzeroberflache.md)
+{% content-ref url="erste-schritte/benutzeroberflache/" %}
+[benutzeroberflache](erste-schritte/benutzeroberflache/)
 {% endcontent-ref %}
 
 ### Basisfunktionen

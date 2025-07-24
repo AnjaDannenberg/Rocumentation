@@ -19,7 +19,8 @@
 
 * [KI, Videos und Stepper](erste-schritte/ki-videos-stepper.md)
 * [Weitere Blöcke](erste-schritte/weitere-bloecke.md)
-* [Screenshots](erste-schritte/benutzeroberflache.md)
+* [Screenshots](erste-schritte/benutzeroberflache/README.md)
+  * [Unterkapitel Screenshots](erste-schritte/benutzeroberflache/unterkapitel-screenshots.md)
 
 ## Basisfunktionen
 
