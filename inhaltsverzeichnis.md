@@ -20,8 +20,8 @@
 [unterunterkapitel-1](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/)
 {% endcontent-ref %}
 
-{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel.md" %}
-[unterunterunterkapitel.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel.md)
+{% content-ref url="erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-1.md" %}
+[unterunterunterkapitel-1.md](erste-schritte/benutzeroberflache/unterkapitel-screenshots/unterunterkapitel-1/unterunterunterkapitel-1.md)
 {% endcontent-ref %}
 
 ### Basisfunktionen
